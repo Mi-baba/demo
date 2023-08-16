@@ -5,3 +5,9 @@ create a file
 add remote repo
 add files
 commit changes
+
+Create a downstream branch
+add files and modify others
+git fetch, git diff and git merge
+git push to diff branch
+create pull request
